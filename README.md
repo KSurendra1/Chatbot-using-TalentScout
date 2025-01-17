@@ -1,4 +1,4 @@
-# TalentScout-Hiring-Assistant-Chatbot
+# Chatbot-using-TalentScout
 
 ## Project Overview
 The **Chatbot using TalentScout** is designed to streamline the recruitment process by assisting in the initial screening of candidates. It collects essential information, such as personal details and technical expertise, and generates tailored technical interview questions based on the candidate’s declared tech stack. This project demonstrates the capabilities of **Llama-based Large Language Models (LLMs)** and effective prompt engineering.
