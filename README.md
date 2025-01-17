@@ -15,8 +15,8 @@ The **Chatbot using TalentScout** is designed to streamline the recruitment proc
 ### Installation Steps
 1. **Clone the repository or extract the zip file**:
    ```bash
-   git clone https://github.com/Riya2624/talentscout-chatbot.git
-   cd talentscout-chatbot
+   git clone https://github.com/Akkis12/Chatbot-using-TalentScout.git
+   cd Chatbot-using-TalentScout
    ```
 
 2. **Install dependencies**:
@@ -156,5 +156,5 @@ pip install -r requirements.txt
 
 ---
 
-This README provides all necessary details to set up, run, and extend the chatbot application. For questions or issues, feel free to contact [rtriya2001@gmail.com].
+This README provides all necessary details to set up, run, and extend the chatbot application. For questions or issues, feel free to contact [akkisurya08@gmail.com].
 
